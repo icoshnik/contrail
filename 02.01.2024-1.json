@@ -1,0 +1,25 @@
+{
+    "name": "Paula Caldwell",
+    "age": 35,
+    "address": {
+        "street": "Bonnie Turnpike",
+        "city": "New Richard",
+        "state": "New York",
+        "zip": "53975"
+    },
+    "contact": {
+        "phone": "752.911.0249",
+        "servicePhone": "800229529"
+    },
+    "birthday": "1990-04-08",
+    "ip": "196.148.12.193",
+    "foo": "bar",
+    "profile": {
+        "about": "Or let involve talk major meet. Fill professor group tend social ever think nice.\nPractice my myself case. My section push.",
+        "bio": "Big trouble specific interview enjoy activity stock. Contain speech read boy stage challenge red. Those face type from. Republican challenge case drop sound figure."
+    },
+    "currency": [
+        "MDL",
+        "Moldovan leu"
+    ]
+}
