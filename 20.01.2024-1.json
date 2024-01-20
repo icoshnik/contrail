@@ -1,0 +1,25 @@
+{
+    "name": "Stephanie Garner",
+    "age": 4,
+    "address": {
+        "street": "Michael Alley",
+        "city": "South Christopherview",
+        "state": "Utah",
+        "zip": "05477"
+    },
+    "contact": {
+        "phone": "355.587.8628x2701",
+        "servicePhone": "800037765"
+    },
+    "birthday": "2021-21-05",
+    "ip": "168.240.19.135",
+    "foo": "bar",
+    "profile": {
+        "about": "Likely what have sometimes case father challenge. Let consumer phone accept care young. See citizen city matter.",
+        "bio": "Fish current finish usually administration. House stay picture mention weight rich former through.\nCell available resource have. Hit energy hour power. Consumer nor personal thousand."
+    },
+    "currency": [
+        "CDF",
+        "Congolese franc"
+    ]
+}
