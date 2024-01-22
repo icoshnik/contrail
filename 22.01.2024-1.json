@@ -1,0 +1,25 @@
+{
+    "name": "Linda Lynch",
+    "age": 70,
+    "address": {
+        "street": "Taylor Falls",
+        "city": "Edwardsberg",
+        "state": "Alabama",
+        "zip": "75102"
+    },
+    "contact": {
+        "phone": "001-316-613-9977x71923",
+        "servicePhone": "800228066"
+    },
+    "birthday": "1955-24-12",
+    "ip": "97.159.219.235",
+    "foo": "bar",
+    "profile": {
+        "about": "Possible report smile something kitchen without. Popular Republican identify happen respond street animal hard. Several space hundred early from past after.",
+        "bio": "Yourself or close form against work crime. Career success marriage light total.\nDebate question never. Decide relationship voice this laugh. Task among difference several I."
+    },
+    "currency": [
+        "XDR",
+        "Special drawing rights"
+    ]
+}
