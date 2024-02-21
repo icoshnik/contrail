@@ -1,0 +1,25 @@
+{
+    "name": "Stephen Riddle",
+    "age": 13,
+    "address": {
+        "street": "Peters Route",
+        "city": "South Rebecca",
+        "state": "Kentucky",
+        "zip": "41055"
+    },
+    "contact": {
+        "phone": "(827)841-1825",
+        "servicePhone": "800703433"
+    },
+    "birthday": "2012-06-05",
+    "ip": "149.184.255.141",
+    "foo": "bar",
+    "profile": {
+        "about": "Audience interview series purpose ability letter member. Special agent arm rate performance amount. Trade bad can when others security traditional.",
+        "bio": "Radio election democratic. Attention choice window attorney social night have.\nBack one suggest can not court hour. Pattern cell radio. Hour water civil save single from."
+    },
+    "currency": [
+        "ETB",
+        "Ethiopian birr"
+    ]
+}
