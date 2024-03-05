@@ -1,0 +1,25 @@
+{
+    "name": "Johnny Young",
+    "age": 77,
+    "address": {
+        "street": "Davis Club",
+        "city": "Darylside",
+        "state": "Wisconsin",
+        "zip": "03748"
+    },
+    "contact": {
+        "phone": "+1-943-806-3168x0393",
+        "servicePhone": "800790350"
+    },
+    "birthday": "1948-03-07",
+    "ip": "145.47.101.237",
+    "foo": "bar",
+    "profile": {
+        "about": "Shake serve wide return relationship. Life Congress the doctor throw station understand television.\nCare every growth people their. Participant recognize idea first office oil partner.",
+        "bio": "Similar scene result occur rock wide. Population list ok father day high size.\nPass provide poor administration policy attorney.\nBefore woman music. Example inside use lead."
+    },
+    "currency": [
+        "PGK",
+        "Papua New Guinean kina"
+    ]
+}
