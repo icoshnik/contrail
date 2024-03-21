@@ -1,0 +1,25 @@
+{
+    "name": "Maria Hernandez",
+    "age": 5,
+    "address": {
+        "street": "Julie Vista",
+        "city": "Emmaland",
+        "state": "Hawaii",
+        "zip": "67107"
+    },
+    "contact": {
+        "phone": "+1-766-598-8227x4501",
+        "servicePhone": "800377989"
+    },
+    "birthday": "2020-01-03",
+    "ip": "89.71.159.202",
+    "foo": "bar",
+    "profile": {
+        "about": "Movie audience television nor cold particular. About language become model to serve.",
+        "bio": "Laugh wonder mouth no.\nOccur magazine across baby resource must. Professional word reach back sit make within. Daughter author generation act."
+    },
+    "currency": [
+        "JMD",
+        "Jamaican dollar"
+    ]
+}
