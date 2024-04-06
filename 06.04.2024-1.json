@@ -1,0 +1,25 @@
+{
+    "name": "Michele Shaw",
+    "age": 13,
+    "address": {
+        "street": "Kristine Summit",
+        "city": "West Pamelaland",
+        "state": "Idaho",
+        "zip": "78142"
+    },
+    "contact": {
+        "phone": "454.835.1985",
+        "servicePhone": "800743800"
+    },
+    "birthday": "2012-09-01",
+    "ip": "6.175.113.198",
+    "foo": "bar",
+    "profile": {
+        "about": "In dog analysis range air front collection hospital. Building agency capital reach threat. Evening medical opportunity deal. Quickly watch personal build possible.",
+        "bio": "Add such yet page author what would. Same recently school group network expert space.\nPolice interest guess base company data. Quite food note source staff base degree."
+    },
+    "currency": [
+        "KES",
+        "Kenyan shilling"
+    ]
+}
