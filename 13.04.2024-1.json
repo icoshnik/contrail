@@ -1,0 +1,25 @@
+{
+    "name": "Mark Morrison",
+    "age": 4,
+    "address": {
+        "street": "Smith Ferry",
+        "city": "Lake Markbury",
+        "state": "Nebraska",
+        "zip": "45587"
+    },
+    "contact": {
+        "phone": "761-825-1923",
+        "servicePhone": "800067825"
+    },
+    "birthday": "2021-29-12",
+    "ip": "25.135.44.72",
+    "foo": "bar",
+    "profile": {
+        "about": "Lawyer moment should also score account. Town manager easy alone town television quality sense.",
+        "bio": "Relate lose wait.\nHear school question small fill push. Over stock indicate somebody.\nEnter natural development child piece field decision statement. Program play sell option ok another test."
+    },
+    "currency": [
+        "TZS",
+        "Tanzanian shilling"
+    ]
+}
