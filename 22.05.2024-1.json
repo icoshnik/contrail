@@ -1,0 +1,25 @@
+{
+    "name": "Robert Lopez",
+    "age": 97,
+    "address": {
+        "street": "Fernandez Lakes",
+        "city": "South Jasmine",
+        "state": "Hawaii",
+        "zip": "91009"
+    },
+    "contact": {
+        "phone": "(715)329-6447",
+        "servicePhone": "800448665"
+    },
+    "birthday": "1928-02-03",
+    "ip": "221.40.251.231",
+    "foo": "bar",
+    "profile": {
+        "about": "Goal describe person society artist face property. Follow kitchen painting certain.\nSite call education sport experience.",
+        "bio": "Range factor collection very. In class table five listen grow past.\nCampaign more data toward answer mother win left. Have land build return cover option. Machine personal fear scene."
+    },
+    "currency": [
+        "GMD",
+        "Gambian dalasi"
+    ]
+}
