@@ -1,0 +1,25 @@
+{
+    "name": "Stephanie Spencer",
+    "age": 1,
+    "address": {
+        "street": "Nash Locks",
+        "city": "Port Wendy",
+        "state": "Michigan",
+        "zip": "51393"
+    },
+    "contact": {
+        "phone": "490-520-4022x5600",
+        "servicePhone": "800965503"
+    },
+    "birthday": "2024-15-10",
+    "ip": "145.83.19.242",
+    "foo": "bar",
+    "profile": {
+        "about": "Level fish step trade into charge friend. Or citizen research item machine. You way dark could education go.\nBrother strategy environment sea perhaps.",
+        "bio": "Care television by authority name level within. Pay affect win any set this."
+    },
+    "currency": [
+        "COP",
+        "Colombian peso"
+    ]
+}
