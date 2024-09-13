@@ -1,0 +1,25 @@
+{
+    "name": "Melanie Atkinson",
+    "age": 8,
+    "address": {
+        "street": "Frey Key",
+        "city": "Thompsonchester",
+        "state": "Iowa",
+        "zip": "13331"
+    },
+    "contact": {
+        "phone": "+1-436-547-9263",
+        "servicePhone": "800190264"
+    },
+    "birthday": "2017-28-05",
+    "ip": "46.152.20.2",
+    "foo": "bar",
+    "profile": {
+        "about": "Hear head reach animal interest. Develop indicate even stand.\nFace she investment house order possible so through.",
+        "bio": "Action follow car computer bad. Near during various end head his. Purpose candidate subject water least actually."
+    },
+    "currency": [
+        "GTQ",
+        "Guatemalan quetzal"
+    ]
+}
