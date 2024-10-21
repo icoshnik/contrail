@@ -1,0 +1,25 @@
+{
+    "name": "Dwayne Brown",
+    "age": 67,
+    "address": {
+        "street": "Weber Bridge",
+        "city": "Ashleyborough",
+        "state": "Alaska",
+        "zip": "16261"
+    },
+    "contact": {
+        "phone": "343.788.0084",
+        "servicePhone": "800464869"
+    },
+    "birthday": "1958-04-05",
+    "ip": "6.249.109.188",
+    "foo": "bar",
+    "profile": {
+        "about": "Bit stuff not arm it compare law. Create within open surface these investment happen.",
+        "bio": "When common parent drug all understand walk. Share seek range.\nThe imagine door one under. Six scientist American require Mr. Tough teacher spend remain."
+    },
+    "currency": [
+        "MKD",
+        "Macedonian denar"
+    ]
+}
