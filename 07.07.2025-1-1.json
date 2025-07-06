@@ -1,0 +1,25 @@
+{
+    "name": "Jill Wright",
+    "age": 65,
+    "address": {
+        "street": "Jasmine Harbor",
+        "city": "Kingshire",
+        "state": "Maine",
+        "zip": "69820"
+    },
+    "contact": {
+        "phone": "203.471.2350",
+        "servicePhone": "800363795"
+    },
+    "birthday": "1960-28-06",
+    "ip": "40.243.39.93",
+    "foo": "bar",
+    "profile": {
+        "about": "Half policy over leader these pass.\nPainting campaign standard student way moment. Yard personal around writer ground effect. Half data chair nor blue arrive into.",
+        "bio": "Wind society blood religious practice then best. Pressure table everyone health easy forget.\nMorning throw during style fly. Simply head ask reduce executive."
+    },
+    "currency": [
+        "UAH",
+        "Ukrainian hryvnia"
+    ]
+}
