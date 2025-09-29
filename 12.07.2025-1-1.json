@@ -1,0 +1,25 @@
+{
+    "name": "Richard Roach",
+    "age": 6,
+    "address": {
+        "street": "Butler Avenue",
+        "city": "New Tinahaven",
+        "state": "California",
+        "zip": "59659"
+    },
+    "contact": {
+        "phone": "001-290-468-2867x440",
+        "servicePhone": "800627814"
+    },
+    "birthday": "2019-06-06",
+    "ip": "138.91.247.69",
+    "foo": "bar",
+    "profile": {
+        "about": "Property strategy want defense middle special stand hospital. Computer tree understand within parent company.",
+        "bio": "My morning article deal first next. Huge every together development theory fact on.\nBusiness walk build stock culture sea glass."
+    },
+    "currency": [
+        "CAD",
+        "Canadian dollar"
+    ]
+}

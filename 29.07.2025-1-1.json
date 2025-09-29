@@ -1,0 +1,25 @@
+{
+    "name": "Jacob Scott",
+    "age": 92,
+    "address": {
+        "street": "Ferguson Shoals",
+        "city": "Reedport",
+        "state": "Tennessee",
+        "zip": "10734"
+    },
+    "contact": {
+        "phone": "6578224447",
+        "servicePhone": "800967869"
+    },
+    "birthday": "1933-25-08",
+    "ip": "29.19.167.197",
+    "foo": "bar",
+    "profile": {
+        "about": "Attorney develop mouth research media next. Child paper effort thank go term capital. Forward beautiful night modern health eye. It myself my leg pick.",
+        "bio": "Everybody include eat trial face benefit ground play. Reduce store think reality which skill.\nBehavior call parent call fire case. Voice show modern ground."
+    },
+    "currency": [
+        "ALL",
+        "Albanian lek"
+    ]
+}
