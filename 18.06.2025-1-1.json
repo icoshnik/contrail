@@ -1,0 +1,25 @@
+{
+    "name": "Dawn Santos",
+    "age": 47,
+    "address": {
+        "street": "Dawn Walks",
+        "city": "East John",
+        "state": "Iowa",
+        "zip": "65492"
+    },
+    "contact": {
+        "phone": "(881)218-5987",
+        "servicePhone": "800409362"
+    },
+    "birthday": "1978-12-07",
+    "ip": "29.157.3.125",
+    "foo": "bar",
+    "profile": {
+        "about": "Thing scene better when physical machine. Maybe someone source reason theory.",
+        "bio": "Security some federal fire not success pretty. Believe lead manager great. Especially night mind into."
+    },
+    "currency": [
+        "KMF",
+        "Comorian franc"
+    ]
+}
