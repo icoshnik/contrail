@@ -1,0 +1,25 @@
+{
+    "name": "John Jacobson",
+    "age": 65,
+    "address": {
+        "street": "Stephens Dale",
+        "city": "Alanland",
+        "state": "Virginia",
+        "zip": "71485"
+    },
+    "contact": {
+        "phone": "965-941-9629x8126",
+        "servicePhone": "800033203"
+    },
+    "birthday": "1960-11-03",
+    "ip": "116.54.8.176",
+    "foo": "bar",
+    "profile": {
+        "about": "Some responsibility fact human couple talk four. Stuff cold data fast. Force shake culture lot.\nEver cultural any. Note point meet leader three product job. Then hour anyone wait share fund.",
+        "bio": "Always case late event during. So trial appear phone after back sister. Even grow cause."
+    },
+    "currency": [
+        "IMP",
+        "Manx pound"
+    ]
+}
