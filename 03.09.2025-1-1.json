@@ -1,0 +1,25 @@
+{
+    "name": "Jerry Padilla",
+    "age": 24,
+    "address": {
+        "street": "Linda Union",
+        "city": "Lake Joseph",
+        "state": "Louisiana",
+        "zip": "21254"
+    },
+    "contact": {
+        "phone": "001-343-789-0085x746",
+        "servicePhone": "800034762"
+    },
+    "birthday": "2001-24-10",
+    "ip": "222.108.77.120",
+    "foo": "bar",
+    "profile": {
+        "about": "Institution travel generation manager few which. South agency project rock write.",
+        "bio": "Democratic moment road professor would treatment stop. Issue energy half support far. Push within concern short government turn car.\nRate skin really until. Bad measure close fire to law race."
+    },
+    "currency": [
+        "BIF",
+        "Burundian franc"
+    ]
+}

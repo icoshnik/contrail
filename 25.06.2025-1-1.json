@@ -1,0 +1,25 @@
+{
+    "name": "Jessica Mann",
+    "age": 106,
+    "address": {
+        "street": "Carl Cove",
+        "city": "Williamsbury",
+        "state": "South Carolina",
+        "zip": "50432"
+    },
+    "contact": {
+        "phone": "339.485.3456x732",
+        "servicePhone": "800108803"
+    },
+    "birthday": "1919-19-12",
+    "ip": "31.194.30.144",
+    "foo": "bar",
+    "profile": {
+        "about": "Sound international full notice draw. Ready Mrs toward choice. Kid series charge.",
+        "bio": "Someone indicate indicate nice tax cold. Election fast not me.\nTotal yet hotel face prevent style over. Prevent evidence product."
+    },
+    "currency": [
+        "CDF",
+        "Congolese franc"
+    ]
+}
