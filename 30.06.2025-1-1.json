@@ -1,0 +1,25 @@
+{
+    "name": "Jennifer Wilson",
+    "age": 54,
+    "address": {
+        "street": "Amy Route",
+        "city": "South Gene",
+        "state": "Arizona",
+        "zip": "79587"
+    },
+    "contact": {
+        "phone": "479-776-6800x860",
+        "servicePhone": "800371209"
+    },
+    "birthday": "1971-26-05",
+    "ip": "77.220.220.134",
+    "foo": "bar",
+    "profile": {
+        "about": "Interest someone future former help hit bed. First alone wall.\nTerm meet common Democrat sense after.",
+        "bio": "Present family material environmental important professional allow. Fall continue sound tell style bring trade mouth."
+    },
+    "currency": [
+        "GBP",
+        "Pound sterling"
+    ]
+}

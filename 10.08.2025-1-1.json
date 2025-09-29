@@ -1,0 +1,25 @@
+{
+    "name": "Michelle Jones",
+    "age": 55,
+    "address": {
+        "street": "Delacruz Course",
+        "city": "Pattersonton",
+        "state": "Iowa",
+        "zip": "55341"
+    },
+    "contact": {
+        "phone": "001-694-284-5824x78992",
+        "servicePhone": "800509948"
+    },
+    "birthday": "1970-02-01",
+    "ip": "79.134.91.190",
+    "foo": "bar",
+    "profile": {
+        "about": "Chair institution anyone control room design return. Newspaper image those image third eat industry. Economic weight claim federal.\nGirl voice show base. Tend building upon. Not believe news.",
+        "bio": "Read center position feel center so Republican. Off quickly action mission down. Party color individual nor. Perform company structure approach born course center."
+    },
+    "currency": [
+        "HRK",
+        "Croatian kuna"
+    ]
+}
