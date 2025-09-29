@@ -1,0 +1,25 @@
+{
+    "name": "Dawn Jackson MD",
+    "age": 21,
+    "address": {
+        "street": "Michael Tunnel",
+        "city": "South Paultown",
+        "state": "Massachusetts",
+        "zip": "12764"
+    },
+    "contact": {
+        "phone": "826.513.4849x889",
+        "servicePhone": "800061398"
+    },
+    "birthday": "2004-09-12",
+    "ip": "130.71.74.108",
+    "foo": "bar",
+    "profile": {
+        "about": "Thus student phone toward enter answer. Realize daughter safe pass attack.\nOption commercial who present science. Fine opportunity almost to owner east recent. Campaign meet heavy.",
+        "bio": "Research generation about word than without. Join high director research kid speak. Blue fund throughout at. Special interest when wall mean everybody individual."
+    },
+    "currency": [
+        "ILS",
+        "Israeli new shekel"
+    ]
+}

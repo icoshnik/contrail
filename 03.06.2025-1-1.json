@@ -1,0 +1,25 @@
+{
+    "name": "Glenn Charles",
+    "age": 5,
+    "address": {
+        "street": "Jared Prairie",
+        "city": "New Rachel",
+        "state": "Washington",
+        "zip": "64177"
+    },
+    "contact": {
+        "phone": "(237)364-0831",
+        "servicePhone": "800968917"
+    },
+    "birthday": "2020-05-03",
+    "ip": "102.123.222.56",
+    "foo": "bar",
+    "profile": {
+        "about": "Always north blood particularly claim election cost. Claim work you act. Value score them ground during avoid compare.\nTrue member animal sister wife low then.",
+        "bio": "Heart term dark guy pick kitchen. Once free hot much writer question. Blood either thing page very.\nNews table mission. Whom rock item."
+    },
+    "currency": [
+        "BRL",
+        "Brazilian real"
+    ]
+}

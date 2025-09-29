@@ -1,0 +1,25 @@
+{
+    "name": "Jillian Tucker",
+    "age": 87,
+    "address": {
+        "street": "Jessica Island",
+        "city": "Joseview",
+        "state": "Illinois",
+        "zip": "49930"
+    },
+    "contact": {
+        "phone": "443.720.5929",
+        "servicePhone": "800141310"
+    },
+    "birthday": "1938-24-09",
+    "ip": "42.131.121.88",
+    "foo": "bar",
+    "profile": {
+        "about": "Might draw statement admit.\nTotal know bank money. Decision to sometimes method after. Pass money find work consumer generation decide. National avoid follow statement evening.",
+        "bio": "Environmental act affect long. Wonder close feeling card heart view. Arm game foot property change again tough.\nWill media general.\nAway return worker huge figure ability wonder."
+    },
+    "currency": [
+        "BRL",
+        "Brazilian real"
+    ]
+}

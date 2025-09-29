@@ -1,0 +1,25 @@
+{
+    "name": "Jeffrey Kelly",
+    "age": 48,
+    "address": {
+        "street": "Ward View",
+        "city": "South James",
+        "state": "Oklahoma",
+        "zip": "05545"
+    },
+    "contact": {
+        "phone": "773.431.2391",
+        "servicePhone": "800323467"
+    },
+    "birthday": "1977-19-08",
+    "ip": "192.83.98.42",
+    "foo": "bar",
+    "profile": {
+        "about": "Three forget everything task meet. Health series score although pick.",
+        "bio": "Ago candidate quite alone yourself support fight. Few like around take page. Measure consumer huge old."
+    },
+    "currency": [
+        "ZMW",
+        "Zambian kwacha"
+    ]
+}
