@@ -1,0 +1,25 @@
+{
+    "name": "Jeremiah Martin",
+    "age": 2,
+    "address": {
+        "street": "Murphy Extension",
+        "city": "Markfurt",
+        "state": "Rhode Island",
+        "zip": "84458"
+    },
+    "contact": {
+        "phone": "394.532.6771x6440",
+        "servicePhone": "800250481"
+    },
+    "birthday": "2023-24-09",
+    "ip": "91.43.63.245",
+    "foo": "bar",
+    "profile": {
+        "about": "Attention change safe wind poor. Whatever market all car eat likely expect.",
+        "bio": "Process bed include. Administration large spring everybody if. Far but heart feeling.\nBecause far clearly any continue do yes least. Ever too produce deal kid him."
+    },
+    "currency": [
+        "MNT",
+        "Mongolian tugrik"
+    ]
+}
